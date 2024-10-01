@@ -2,10 +2,10 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="17.0.0.0"
-    CreationTime="2024-09-19 16:14:45 (UTC)"
+    CreationTime="2024-09-30 14:57:05 (UTC)"
     Runtime="COLORADO"
-    RtProjectName="Automatic_Welder_1.0.0.HMI_1[TP700 Comfort]"
-    RtProjectFolderName="Automatic_Welder_1.0.0.HMI_1[TP700 Comfort]"
+    RtProjectName="automatic-welder.HMI_1[TP700 Comfort]"
+    RtProjectFolderName="automatic-welder.HMI_1[TP700 Comfort]"
     DeviceType="TP700 Comfort"
     DisplayOrientation="0"
     RTReleaseNo="17.0.0.8"
@@ -19,7 +19,5 @@
   <FullDownload
     type="ADMINDATA">pdata.pwx</FullDownload>
   <FullDownload>ProjectSettings.hsf</FullDownload>
-  <FullDownload
-    type="RECIPE">pdata.recipe.zip</FullDownload>
   <FullDownload>DeviceSettings.hsf</FullDownload>
 </DownloadTask>
